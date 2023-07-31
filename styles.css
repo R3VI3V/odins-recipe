@@ -1,0 +1,39 @@
+h1{
+    border: 1px;
+    border-color: black;
+    border-style:groove
+}
+
+h2{
+    border: 1px;
+    border-color: black;
+    border-style:groove
+}
+
+body{
+    background-color: bisque;
+}
+
+dt{
+    border: 1px;
+    border-color: black;
+    border-style:groove
+}
+
+dd{
+    border: 1px;
+    border-color: black;
+    border-style:groove;
+    padding:5px;
+    margin-top: 20px;
+}
+
+a{
+margin-left: 20px;
+margin-top: 2px;
+}
+
+
+ul,p,li{
+    font-size: large;
+}
